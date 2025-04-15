@@ -18,7 +18,6 @@ Before running the automation scripts, make sure you have the following tools an
 - Selenium WebDriver
 - ChromeDriver (Make sure it's compatible with your Chrome version)
 - pip (Python Package Installer)
-- WebDriver (ChromeDriver)
 
 ### Installation Instructions:
 
